@@ -59,6 +59,8 @@ $ curl -L git.io/nodebrew | perl - setup
 
 export PATH=$HOME/.nodebrew/current/bin:$PATH
 $ source ~/.bash_profile
+$ nodebrew -v
+nodebrew 0.8.1
 ```
 
 #### Nodeインストール
