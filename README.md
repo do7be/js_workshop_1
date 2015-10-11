@@ -135,3 +135,7 @@ $ npm install -g learnyounode
 $ cd ${適当なディレクトリ}
 $ learnyounode
 ```
+
+## LICENSE
+
+Thanks for https://github.com/socketio/socket.io
