@@ -140,4 +140,4 @@ $ learnyounode
 
 ## LICENSE
 
-Thanks for https://github.com/socketio/socket.io
+Thanks to https://github.com/socketio/socket.io
