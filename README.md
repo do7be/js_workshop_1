@@ -92,6 +92,11 @@ current: none
 $ nodebrew use v4.1.2
 use v4.1.2
 
+$ nodebrew ls
+v4.1.2
+
+current: none
+
 $ node -v
 v4.1.2
 
