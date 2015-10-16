@@ -100,6 +100,8 @@ current: none
 $ node -v
 v4.1.2
 
+$ npm update -g npm
+
 $ npm -v
 3.3.6
 
