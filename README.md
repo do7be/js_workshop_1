@@ -136,6 +136,7 @@ http://socket.io/demos/chat/
 
 ```
 $ cd ./examples/chat/
+$ npm install -g socket.io
 $ npm install
 $ node ./index.js
 ```
@@ -150,7 +151,7 @@ Node.js入門者用workshopper
 http://nodeschool.io/
 
 ```
-$ npm install -g learnyounode
+$ npm install -g learnyounode-jp
 $ cd ${適当なディレクトリ}
 $ learnyounode
 ```
